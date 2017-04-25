@@ -1,0 +1,81 @@
+GetMehIntent meh
+GetMehIntent the meh
+GetMehIntent the meh deal
+GetMehIntent today's meh
+GetMehIntent today's meh deal
+GetMehIntent the current meh
+GetMehIntent current meh
+GetMehIntent current meh deal
+GetMehIntent the current meh deal
+GetMehIntent tell me the meh
+GetMehIntent tell me the meh deal
+GetMehIntent tell me today's meh
+GetMehIntent tell me today's meh deal
+GetMehIntent tell me the current meh
+GetMehIntent tell me the current meh deal
+GetMehIntent what is the meh
+GetMehIntent what is the current meh
+GetMehIntent what is today's meh
+GetMehIntent what is today's meh deal
+GetMehIntent what is the meh deal
+GetMehIntent what is the current meh deal
+GetMehIntent what's the meh
+GetMehIntent what's the current meh
+GetMehIntent what's today's meh
+GetMehIntent what's today's meh deal
+GetMehIntent what's the meh deal
+GetMehIntent what's the current meh deal
+GetWootIntent woot
+GetWootIntent {Service} woot
+GetWootIntent the woot
+GetWootIntent the {Service} woot
+GetWootIntent the woot deal
+GetWootIntent the {Service} woot deal
+GetWootIntent today's woot
+GetWootIntent today's {Service} woot
+GetWootIntent today's woot deal
+GetWootIntent today's {Service} woot deal
+GetWootIntent the current woot
+GetWootIntent the current {Service} woot
+GetWootIntent current woot
+GetWootIntent current {Service} woot
+GetWootIntent current woot deal
+GetWootIntent current {Service} woot deal
+GetWootIntent the current woot deal
+GetWootIntent the current {Service} woot deal
+GetWootIntent tell me the woot
+GetWootIntent tell me the {Service} woot
+GetWootIntent tell me the woot deal
+GetWootIntent tell me the {Service} woot deal
+GetWootIntent tell me today's woot
+GetWootIntent tell me today's {Service} woot
+GetWootIntent tell me today's woot deal
+GetWootIntent tell me today's {Service} woot deal
+GetWootIntent tell me the current woot
+GetWootIntent tell me the current {Service} woot
+GetWootIntent tell me the current woot deal
+GetWootIntent tell me the current {Service} woot deal
+GetWootIntent what is the woot
+GetWootIntent what is the {Service} woot
+GetWootIntent what is the current woot
+GetWootIntent what is the current {Service} woot
+GetWootIntent what is today's woot
+GetWootIntent what is today's {Service} woot
+GetWootIntent what is today's woot deal
+GetWootIntent what is today's {Service} woot deal
+GetWootIntent what is the woot deal
+GetWootIntent what is the {Service} woot deal
+GetWootIntent what is the current woot deal
+GetWootIntent what is the current {Service} woot deal
+GetWootIntent what's the woot
+GetWootIntent what's the {Service} woot
+GetWootIntent what's the current woot
+GetWootIntent what's the current {Service} woot
+GetWootIntent what's today's woot
+GetWootIntent what's today's {Service} woot
+GetWootIntent what's today's woot deal
+GetWootIntent what's today's {Service} woot deal
+GetWootIntent what's the woot deal
+GetWootIntent what's the {Service} woot deal
+GetWootIntent what's the current woot deal
+GetWootIntent what's the current {Service} woot deal

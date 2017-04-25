@@ -1,0 +1,25 @@
+{
+  "name": "alexa-bargain-buddy",
+  "version": "1.0.0",
+  "description": "Enable Alexa to tell you the daily deals from woot.com and meh.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "woot.com",
+	"meh.com",
+	"daily deal"
+  ],
+  "author": "nickschwab.com",
+  "license": "See license in ../LICENSE.txt",
+  "dependencies": {
+    "voicelabs": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickschwab/alexa-bargain-buddy"
+  }
+}
