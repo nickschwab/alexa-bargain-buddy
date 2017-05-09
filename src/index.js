@@ -59,7 +59,7 @@ MyApp.prototype.eventHandlers.onSessionStarted = function (sessionStartedRequest
 
 MyApp.prototype.eventHandlers.onLaunch = function (launchRequest, session, response) {
     console.log("MyApp onLaunch requestId: " + launchRequest.requestId + ", sessionId: " + session.sessionId);
-    response.ask("What daily deal would you like me to look up?", "Say a daily deal, like 'Woot', or say 'help' for a list of available sources.");
+    response.ask("What daily deal would you like me to look up? Try saying \"tell me the Home Woot\" or \"tell me today’s Meh deal\".", "Say something like 'the Woot deal', or say 'help' for a list of available daily deal merchants.");
 };
 
 /**
@@ -119,7 +119,7 @@ function arrayToReadableString(array, join, finalJoin) {
  */
 function handleMehRequest(response) {
     getMehText(function(err, result){
-        response.tell(result);
+        response.tellWithCard(result, APP_NAME, result);
     });
 }
 
@@ -164,7 +164,7 @@ function getMehText(callback){
 
 function handleWootRequest(service, response) {
     getWootText(service, function(err, result){
-        response.tell(result);
+        response.tellWithCard(result, APP_NAME, result);
     });
 }
 
